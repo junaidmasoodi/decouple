@@ -12,13 +12,14 @@
 First, you need to clone this repository.
 
 ```
-git clone git@github.com:fubhy/drupal-decoupled-app
+git clone git@github.com:junaidmasoodi/decouple.git
 ```
 
 Then, you need to install the dependencies.
 
 ```
 cd backend && composer install
+cd ..
 cd frontend && yarn install
 ```
 
