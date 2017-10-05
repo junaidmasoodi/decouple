@@ -1,5 +1,7 @@
 # Decoupled Drupal with GraphQL and React
 
+##NOte: I have used Amazee Local Docker Drupal dev. For more https://docs.amazee.io/
+
 ## Prerequisites
 
 - amazee.io local Docker development environment (https://docs.amazee.io/local_docker_development/local_docker_development.html)
@@ -59,6 +61,3 @@ yarn run dev
 yarn run build && yarn run start
 ```
 
-## License
-
-This project is licensed under the MIT license, Copyright (c) 2016 Sebastian Siemssen. For more information see LICENSE.md.
