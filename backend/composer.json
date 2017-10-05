@@ -1,13 +1,11 @@
 {
-    "name": "fubhy/drupal-decoupled-app",
+    "name": "junaid/drupal-decoupled-app",
     "description": "A demo project for showcasing decoupled Drupal with React.",
     "type": "project",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        }
-    ],
+    "repositories": [{
+        "type": "composer",
+        "url": "https://packages.drupal.org/8"
+    }],
     "require": {
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6",
